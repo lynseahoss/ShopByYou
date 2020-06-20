@@ -14,7 +14,7 @@ The application is deployed on Heroku for the server to run and function properl
 
 [ShopByYou Demo](https://youtu.be/tAsQGYhLBw8)
 
-![ShopByYou](public/assets/images/shopByYouHome.png)
+![ShopByYou](public/assets/images/category.png)
 
 
 ## Table of Contents
@@ -84,11 +84,8 @@ Cloud Server
 <details>
     <summary markdown="span">Click to expand Screenshot Details</summary>
 
-![Shop Page](public/assets/images/shopByYouHome.png)
-*Screenshot of Shop Page*
-
 ![Category Page](public/assets/images/category.png)
-*Screenshot of Category Page*
+*Screenshot of Shop/ Category Page*
 
 ![Sell Page](public/assets/images/sell.png)
 *Screenshot of Sell Page*
